@@ -1,16 +1,16 @@
-## Hi there 👋
+# Manahil
 
-<!--
-**Manahil173/manahil173** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a datascience student in which i am studying a subject software engineering..
+## Skills & Technologies
+| Category | Technologies |
+| :--- | :--- |
+| Languages | Python, JavaScript, HTML, CSS |
+| Tools | Git, GitHub, VS Code |
 
-Here are some ideas to get you started:
+## Featured Projects
+### 1. Developer Profile README
+I have made a README file for github profile..
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- GitHub: [@Manahil173](https://github.com/Manahil173)
